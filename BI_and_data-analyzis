@@ -2,7 +2,7 @@
 https://davebirss.com/ai-top10/
 
 """
-# Using AI to draft a business plan
+## Using AI to draft a business plan
 "Imagine you are an expert business strategist with the ability to articulate a company vision into a compelling business plan. I want you to ask me questions one at a time to get all the information you need. Ask me a question then STOP and wait for my answer before continuing with your next one. This is a multi-stage prompt and I want you to complete each section and deliver a response before moving on to the next one. You will remember previous information and use that to inform your responses for other sections. In each of your responses you will give me the text for a section of the business plan, followed by advice on how to improve it. If I haven't given you enough information to supply a quality response, let me know. The stages I want you to go through are the following sections of the business plan:
 Company Description - An overview of the business, including its legal structure, history, location, and unique selling proposition. 
 Organization and Management - Describe the company's structure and introduce key team members. Highlight relevant experience and skills.
@@ -12,7 +12,7 @@ Marketing and Sales Strategy - Outline how you'll reach and acquire customers. I
 Operational Plan - Explain how the business will function day-to-day, including production processes, facilities, and equipment needs. 
 Executive Summary - Summarise the entire plan in 1-2 pages. Include the business concept, mission statement, key objectives, and financial highlights. Explain why there's a need for it in the market."
 
-#  Using AI to analyze a financial report
+##  Using AI to analyze a financial report
 "Play the role of a highly experienced financial analyst with the ability to extract useful information from a financial report. I want you to start by collecting the most important figures from the attached document and presenting them to me. This is a multi-stage prompt. I want you to perform the calculations I ask at each step using a chain of thought approach, give me a brief explanation of what each calculation means, and then, once you have done the calculations, give me your own analysis of the entire stage based on the results. Then ask me if I want to move on to the next stage. If you don't have the information to perform any of the calculations, tell me. DO NOT make assumptions. DO NOT fabricate numbers. It is IMPORTANT that your calculations are accurate. The calculations I need are:
 STAGE 1 - PROFITABILITY: <Gross Profit Margin: (Sales Revenue - COGS) / Sales Revenue> <Operating Profit Margin: Operating Income / Revenue> <Net Profit Margin: Net Income / Revenue> <Return on Assets (ROA): Net Income / Average Total Assets> <Return on Equity (ROE): Net Income / Shareholders' Equity>
 STAGE 2 - LIQUIDITY: <Current Ratio: Current Assets / Current Liabilities> <Quick Ratio: (Current Assets - Inventory) / Current Liabilities> <Cash Ratio: Cash and Cash Equivalents / Current Liabilities>
@@ -21,7 +21,7 @@ STAGE 4 - LEVERAGE: <Debt Ratio: Total Liabilities / Total Assets> <Debt-to-Equi
 STAGE 5 - CASH FLOW: <Operating Cash Flow Ratio: Operating Cash Flow / Current Liabilities> <Cash Flow Margin: Cash Flow from Operations / Net Sales>
 STAGE 6 - VALUATION: <Price-to-Earnings (P/E) Ratio: Market Price per Share / Earnings per Share> <Earnings Per Share (EPS): Net Income / Number of Outstanding Shares>"
 
-# Using AI to create a SWOT analysis
+## Using AI to create a SWOT analysis
 "Take on the role of an expert strategist who can look at situations from multiple angles and spot things that most other people miss. I have {information} I would like you to create a SWOT analysis for. I want you to think about this situation from different perspectives to give me a broad view. If you need specific information that can be found on the internet, please conduct a web search and let me know where you found the information. If I haven't given you enough information to provide a valuable response, please ask questions. Deliver your response with:
 - Bullet points for each of the quadrants
 - Further analysis, showing: the impact of threats on strengths and weaknesses, the strengths and weaknesses that impact opportunities
@@ -31,7 +31,7 @@ STAGE 6 - VALUATION: <Price-to-Earnings (P/E) Ratio: Market Price per Share / Ea
 Once you have delivered this, ask me if I would like to make any amends. Once I'm happy with the information, ask if I would like a web visualisation. If I ask for a visualisation, please code an interactive HTML web page that visualises the SWOT analysis. I want this page to contain a different coloured block for each quadrant. These blocks will list the points you have identified in your analysis. If I click on any of these points I want to see a popup with further explanation.
 {information}: [Replace this with the topic you'd like to analyse]"
 
-# Using AI to get career coaching
+## Using AI to get career coaching
 "Imagine you are an experienced career coach who knows how to help people accelerate their career journey and feel fulfilled in their role. I want you to ask me questions to understand where I am in my career and where I want to be. Ask me questions to find out about my current role, what I find most rewarding, my values, my skill levels, what motivates me, what I find frustrating, and how my job impacts my personal life. Find out about my dreams and ambitions so that you can see my ideal career trajectory. Ask questions one at a time. After each question STOP and wait for my response. Once you understand my situation I want you to give me advice, in this format:
 - Assessment of current situation - how well suited I am to my role, how it fits with my values, potential for progression
 - Career development - list my expected short, medium and long term goals based on my current role and ambitions
@@ -39,7 +39,7 @@ Once you have delivered this, ask me if I would like to make any amends. Once I'
 - Measuring success - give me performance indicators, timelines and review points
 - Resources - point me to courses, tools, events, professional groups and other useful resources"
 
-Using AI to write a project proposal
+## Using AI to write a project proposal
 "Imagine you are a highly experienced project manager with a talent for writing project proposals that clearly describe a project in a way that persuades decision makers. If I supply you with a document, use that to get an understanding of the project and then ask me questions to fill in the gaps. If I don't supply a document, interview me instead. I want you to ask me questions one at a time to get all the information you need. Ask me a question then STOP and wait for my answer before continuing with your next one. This is a multi-stage prompt and I want you to complete each section and deliver a response before moving on to the next one. You will remember previous information and use that to inform your responses for other sections. In each of your responses you will give me the text for a section of the project proposal, followed by advice on how to improve it. If I haven't given you enough information to supply a quality response, let me know. The stages I want you to go through are the following sections of the business plan:
 The Problem - What is the problem you're addressing? What do you know about the problem? Why haven't other solutions worked?
 Project Vision - A vision statement for the project. A schedule with milestones. 
@@ -48,7 +48,7 @@ Project Scope - The end result of the project. The deliverables. How you'll know
 Resources Required - Budget, breakdown of costs, resource allocation
 Executive Summary - Once you've delivered everything, use your thinking to write an executive summaryp"
 
-# Using AI to prepare for your annual review
+## Using AI to prepare for your annual review
 "Imagine you are a highly experienced career coach with a reputation for helping people accelerate their job progression. I want you to help me prepare for my annual review to give me the best chance of progressing in the organisation. Ask me questions one at a time to get an understanding of the situation and the desired output. Ask me one question at a time and wait for my response before asking the next one. Ask about my previous review (if there was one) and any goals that were set. Find out about what I've achieved since the last review. Ask me about my boss, what their motivations are and how they are likely to measure my performance. Ask about my aspirations and how I'd like to progress in the company. Once you have all the information you need, please respond with the following:
 - A summary of my achievements and how I should present them in my review
 - A list of requests I should make and how I should ask for them
@@ -56,7 +56,7 @@ Executive Summary - Once you've delivered everything, use your thinking to write
 - A list of information I need to gather to prove my achievements and support my requests
 - Advice on how I should interact to increase the chance of a positive outcome"
 
-# Using AI to summarize a research paper
+## Using AI to summarize a research paper
 "Play the role of an expert researcher with the ability to focus on the most important information and present it in a clear, jargon-free way. Please summarise this {information} using plain language so that it can be easily understood by someone who isn't an expert. 
 - Title of the document
 - Author and date
@@ -69,7 +69,7 @@ Executive Summary - Once you've delivered everything, use your thinking to write
 - Challenges to the thinking
 {information}: [In attached document - or pasted in here instead]"
 
-# Using AI to optimise a process
+## Using AI to optimise a process
 "Play the role of a logical and visionary Operations Analyst with the ability to improve processes to make them more productive and use fewer resources. I want you to analyze {process} carefully so that you can suggest improvements. Before you respond, make sure you are clear on the different steps of the process. Understand how each step relates to the steps before and after and the impact changes can make to different parts of the process. Consider merging, eliminating, expanding, contracting, adapting, replacing and other approaches. I want you to respond with:
 - a table with the following columns: the current steps of the process, how to make it more efficient, how to use fewer resources
 - Your recommendations of the actions I should take
@@ -77,7 +77,7 @@ Executive Summary - Once you've delivered everything, use your thinking to write
 - Advice on how to sell this idea to decision makers in the organization 
 {process}: [Replace this with a description of the process you want to optimise - the more detail, the better]"
 
-# Using AI to create a data analysis report
+## Using AI to create a data analysis report
 "You are an expert data analyst who can extract insights from spreadsheets. I'm giving you {stats} and I want you to give me some insights based on {context}. Start by looking at the data to make sure you understand it. Work only with the data I give you. Look for observations most people would miss. I'm interested in correlations, causation, anomalies, trends, patterns and forecasts. Stop and think about these before you give me your response. When you're ready to respond, please give me:
 - A summary paragraph of your understanding of the stats.
 - A list of insights you get from the data. Give the insight a subhead and follow this with a paragraph describing the insight and why it's worth noting.
@@ -88,7 +88,7 @@ Executive Summary - Once you've delivered everything, use your thinking to write
 {context}: [Describe the context surrounding the data you want analysed - What is it? What area are you most interested in? Why are you asking for this? What do you plan to do with the results? etc]
 {stats}: [Either paste your data in here or tell your AI tool that you've attached it in a document]"
 
-# Using AI to create training material
+## Using AI to create training material
 "Play the role of a talented educator with the ability to simplify information and communicate it in an engaging and memorable way. Please note that this is a two-part prompt: the first part divides the information into lessons and the second part expands on each lesson one at a time. I have {information} and I'd like you to create training material for {lesson type} that will help {audience} learn the key aspects and be able to put them into action. Once you've read through the information, I want you to break it into lessons, where each lesson focuses on a single learning outcome. I want you to empathetically consider the student journey and think about when to use informational, experiential, practical and assessment approaches. Your aim is not just to convey the information but to lodge it in the learner's brain so they can act on it successfully. Deliver your response as:
 - A course title - short, punchy and witty
 - A course description - no more than 100 words describing what the course covers and how the learner benefits
@@ -107,19 +107,19 @@ If I ask for lesson content, deliver one lesson at a time, stopping to ask for f
 {lesson type}: [Say whether this is in-person training, video lessons, a hands-on workshop, a training document, or something else]
 {information}: [Paste the information here or - even better - let the AI tool know that you've attached it in a document]"
 
-# Respond to email
-"You are an eloquent and professional executive known for your effective and persuasive communications. I want you to help me respond to this {email}. Write in a conversational and professional manner with a touch of wit and charm. When you are pasting a link, double check it by visiting the link yourself to make sure it's active. If it's a dead link, try again until you find a working one. 
-I want you to:
-- List of requests (inc. make comment about weather in their area, find relevant news story, etc)
-{email}:"
-
-# Use AI to create a content plan
+## Use AI to create a content plan
 "You are an SEO expert with a reputation for getting sites to the top of search engine rankings. I want you to create a one-month content plan for me based on my {keywords}. The purpose of the content plan is to boost my site's search engine rankings and authority. Start at today's day and give me a list of suggested content that accounts for my {regularity of posting} and {media mix}.
 {keywords}: 
 {regularity of posting}:
 {media mix}:"
 
-# Translate a message and respond to it in the orginal language
+## Respond to email
+"You are an eloquent and professional executive known for your effective and persuasive communications. I want you to help me respond to this {email}. Write in a conversational and professional manner with a touch of wit and charm. When you are pasting a link, double check it by visiting the link yourself to make sure it's active. If it's a dead link, try again until you find a working one. 
+I want you to:
+- List of requests (inc. make comment about weather in their area, find relevant news story, etc)
+{email}:"
+
+## Translate a message and respond to it in the orginal language
 "You are a highly effective and charming communicator who is fluent in every language. I am going to give you a {message} which I would like you to help me reply to. Take into account the {context}. I want you to respond in {tone}. Using markup, I would like you to:
 - Translate the message into English
 - Tell me what language it was written in
@@ -130,78 +130,138 @@ After you have done this, ask me if I would like to edit this message or if I wo
 {message}:"
 
 # https://gamma.app/fr/prompts#browse-all
-# Create an expansion plan evaluating different locations
+# CONSULTANT
+## Create an expansion plan evaluating different locations
 "Create an ambulatory care expansion plan for a health system evaluating 5 suburban locations: demographic heat mapping, service line priorities (urgent care, imaging), 
 site selection scoring, partnership vs. build analysis, capital requirements ($12M), patient volume projections, and breakeven timeline (18 months)"
 
-# Build a digital transformation roadmap 
+## Build a digital transformation roadmap 
 "Build a digital transformation roadmap for your insurance company's board: current maturity (mostly paper-based), industry tech trends, top 5 initiatives, 
 customer portal plans, data modernization, 3-year timeline, and business outcomes"
 
-# Create a competitive analysis
+## Create a competitive analysis
 "Create a competitive analysis for your e-commerce platform's leadership: map top 5 competitors by features vs. price, market share breakdown, your differentiation 
 strategy (same-day delivery + sustainability), and win-loss patterns"
 
-# Build a risk analysis
+## Build a risk analysis
 "Build a risk analysis for a restaurant expansion plotting labor shortages (likely/high impact) vs. supplier issues (unlikely/high impact)"
 
-# Build a launch strategy
+## Build a launch strategy
 "Build a pharmaceutical launch strategy for a new diabetes medication: market landscape (3 established competitors), target prescriber segments (endocrinologists, PCPs),
 payer access plan, sales force sizing (120 reps), medical education program, launch timeline, and Year 1 revenue forecast ($85M)"
 
-#  Design a pricing strategy
+##  Design a pricing strategy
 "Design a pricing strategy for your B2B software company's revenue team: current model analysis, competitor benchmarks, customer research findings, new tiered structure 
 (Starter/Pro/Enterprise), revenue impact (+25%), and rollout plan"
 
-# Build a consulting proposal
+## Build a consulting proposal
 "Build a consulting proposal for a manufacturing company evaluating supply chain optimization"
 
-# Create a digital maturity assessment 
+## Create a digital maturity assessment 
 "Create a digital maturity assessment for a B2B distributor at Level 2 (basic website) with a roadmap to Level 4 (e-commerce, CRM)"
 
-# Design a clinical trial optimization plan 
+## Design a clinical trial optimization plan 
 "Design a clinical trial optimization plan for a biotech's Phase III oncology study: current enrollment challenges (12 sites, 60% of target), site selection criteria,
 patient recruitment strategy, digital tools to reduce dropouts, timeline acceleration, and projected $2M savings"
 
-# Create a customer experience strategy
+## Create a customer experience strategy
 "Create a customer experience strategy for your hotel chain's CMO: journey map with pain points (slow check-in), guest feedback themes, CX maturity (level 2 of 5), 
 improvements, tech needed, and NPS lift from 45 to 65"
 
-# Design a market entry strategy
+## Design a market entry strategy
 "Design a market entry strategy for your SaaS company evaluating Latin America expansion: market size (5M potential customers), competitive landscape, customer segments, 
 launch approach, operations needed, financial projections, and risks"
 
-# Present HR consulting 
+## Present HR consulting 
 Present HR consulting in three tiers: Essential (compliance), Growth (talent strategy), Partner (embedded leadership)
 
-# Create a portfolio optimization strategy
+## Create a portfolio optimization strategy
 "Create a portfolio optimization strategy for a regional REIT managing 45 commercial properties: asset performance review, hold vs. sell recommendations, 
 underperforming strip mall disposition plan, capital reallocation to multifamily, and 5-year value creation roadmap"
 
-# Build a due diligence presentation
+## Build a due diligence presentation
 "Build a due diligence presentation for your investment committee evaluating a fintech acquisition: their business model, market position (#3 in payments), 
 financials, technology stack, management team, synergies, risks, and $50M valuation"
 
-# Create an organizational transformation presentation
+## Create an organizational transformation presentation
 "Create an organizational transformation presentation for your retail bank's executives: vision for digital-first banking, current vs. future state, roadmap with quick wins 
 (mobile deposits in Q1), and how success gets measured"
 
-# Build a change plan
+## Build a change plan
 "Build a change plan for a financial services firm moving 500 employees to hybrid work—covering communication, training, and reinforcement"
 
-# Build a market feasibility study
+## Build a market feasibility study
 "Build a market feasibility study for a 200-unit mixed-use development in downtown Austin: demographic analysis, comparable projects, demand projections, 
 absorption rates, construction costs, financing options, timeline, and expected 18% IRR"*
 
-# Design an operational efficiency review
+## Design an operational efficiency review
 "Design an operational efficiency review for a logistics company's COO: warehouse process analysis, industry benchmarks (you're 20% slower), automation opportunities, 
 redesigned workflow, implementation plan, and projected $500K savings"
 
-# Build a technology implementation proposal
+## Build a technology implementation proposal
 "Build a technology implementation proposal for your healthcare network's leadership: current infrastructure gaps, proposed cloud migration plan, patient care improvements, 
 18-month rollout, $2M budget, and 3-year ROI projections"
 
-# Build a discovery presentation
+## Build a discovery presentation
 "Build a discovery presentation for a manufacturing client sorting whether supply chain delays are process issues or capacity problems"
+
+# MARKETING
+## Build brand guidelines
+"Build brand guidelines for your craft coffee roastery: brand story (third-generation roasters), visual identity (logo usage, earthy color palette with hex codes), 
+voice (warm, knowledgeable), imagery style, do's and don'ts, and partner rules"
+
+##  Create an influencer strategy 
+"Create an influencer strategy for your skincare line targeting Gen Z: partnership goals (1M impressions, 5% conversion), selection criteria, 20 micro-influencers 
+list, collaboration types (gifting/affiliate/ambassador), content guidelines, rates, 3-month timeline, and ROI tracking"
+
+## Design a campaign performance review
+"Design a campaign performance review for your Q3 back-to-school promotion: executive summary, key metrics (5M reach, 12% conversion, 3.2x ROI), channel breakdown 
+with spend, top-performing TikTok content, budget analysis, lessons learned, and what to optimize"
+
+## Build awareness for a brand
+"Build awareness for a DTC mattress: bold subway ads, influencer unboxings, 100-night trial guarantee"
+
+## Brief a campaign for a launch
+"Brief a campaign for an eco-friendly sneaker launch: Gen Z audience, 10K pre-orders goal, influencer partnerships + paid social"
+
+## Design an event marketing plan
+"Design an event marketing plan for "SaaS Growth Summit 2026" targeting startup founders: 500 registrations goal, event branding, 8-week promo timeline, 
+multi-channel push, speaker lineup, attendee journey, sponsorship tiers, $75K budget, and post-event nurture"
+
+## Create a social media campaign
+"Create a social media campaign for your sustainable fashion brand's Earth Month: goals (2M impressions), platform strategy for Instagram/TikTok/LinkedIn, 
+content themes (behind-the-scenes, customer stories), 4-week calendar, engagement tactics, and benchmarks"
+
+## Launch a finance app on social
+"Launch a finance app on social: target millennials with debt, build financial confidence, use educational content on Instagram + TikTok"
+
+## Design a marketing budget for a brand
+"Design a marketing budget for your DTC furniture brand's 2026 plan: $500K total by quarter, channel split (60% paid, 30% owned, 10% earned), campaign priorities,
+3 new hires needed, martech stack costs, expected ROI per initiative, and conservative vs. aggressive scenarios"
+
+## Build an email campaign
+"Build an email campaign for your fitness app's new premium tier: goals (500 upgrades), audience segments (free users with 10+ workouts), 5-email sequence with timing, 
+subject line strategy, design with CTAs, send schedule, A/B tests, and conversion tracking"
+
+## Build a product launch campaign
+"Build a product launch campaign for your new AI writing assistant: goals (10K sign-ups), target audience (content creators, marketers), positioning, 6-week timeline, 
+channel mix (Instagram/email/paid), creative concepts, content calendar, KPIs, and sales assets"
+
+## Position your meal kit
+"Position your meal kit: people compare you to grocery delivery, you offer recipes + pre-portioned ingredients, busy families care most"
+
+## Build a competitive analysis
+"Build a competitive analysis for your meditation app in the wellness space: landscape overview, SWOT for Calm/Headspace/Insight Timer, positioning map, 
+messaging comparison, pricing tiers ($10-$15/mo), digital presence audit, your advantages, and differentiation strategy"
+
+## Create a content strategy 
+"Create a content strategy for your B2B cybersecurity company: business goals, audience personas (IT directors, CISOs), content pillars (threat intelligence, 
+compliance), SEO clusters, content formats (whitepapers, webinars), editorial calendar, distribution, and metrics"
+
+## Create a journey map 
+"Create a journey map for a meditation app: Instagram ad, 7-day trial, daily reminders, milestones, community challenges"
+
+## Design a podcast ad performance report
+"Design a podcast ad performance report: 50K downloads, 2,500 site visits, 180 trials, $18K revenue"
 
 """
