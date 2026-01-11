@@ -129,6 +129,7 @@ After you have done this, ask me if I would like to edit this message or if I wo
 {context}: 
 {message}:"
 
+# https://gamma.app/fr/prompts#browse-all
 # Create an expansion plan evaluating different locations
 "Create an ambulatory care expansion plan for a health system evaluating 5 suburban locations: demographic heat mapping, service line priorities (urgent care, imaging), 
 site selection scoring, partnership vs. build analysis, capital requirements ($12M), patient volume projections, and breakeven timeline (18 months)"
