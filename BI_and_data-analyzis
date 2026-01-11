@@ -129,4 +129,78 @@ After you have done this, ask me if I would like to edit this message or if I wo
 {context}: 
 {message}:"
 
+# Create an expansion plan evaluating different locations
+"Create an ambulatory care expansion plan for a health system evaluating 5 suburban locations: demographic heat mapping, service line priorities (urgent care, imaging), 
+site selection scoring, partnership vs. build analysis, capital requirements ($12M), patient volume projections, and breakeven timeline (18 months)"
+
+# Build a digital transformation roadmap 
+"Build a digital transformation roadmap for your insurance company's board: current maturity (mostly paper-based), industry tech trends, top 5 initiatives, 
+customer portal plans, data modernization, 3-year timeline, and business outcomes"
+
+# Create a competitive analysis
+"Create a competitive analysis for your e-commerce platform's leadership: map top 5 competitors by features vs. price, market share breakdown, your differentiation 
+strategy (same-day delivery + sustainability), and win-loss patterns"
+
+# Build a risk analysis
+"Build a risk analysis for a restaurant expansion plotting labor shortages (likely/high impact) vs. supplier issues (unlikely/high impact)"
+
+# Build a launch strategy
+"Build a pharmaceutical launch strategy for a new diabetes medication: market landscape (3 established competitors), target prescriber segments (endocrinologists, PCPs),
+payer access plan, sales force sizing (120 reps), medical education program, launch timeline, and Year 1 revenue forecast ($85M)"
+
+#  Design a pricing strategy
+"Design a pricing strategy for your B2B software company's revenue team: current model analysis, competitor benchmarks, customer research findings, new tiered structure 
+(Starter/Pro/Enterprise), revenue impact (+25%), and rollout plan"
+
+# Build a consulting proposal
+"Build a consulting proposal for a manufacturing company evaluating supply chain optimization"
+
+# Create a digital maturity assessment 
+"Create a digital maturity assessment for a B2B distributor at Level 2 (basic website) with a roadmap to Level 4 (e-commerce, CRM)"
+
+# Design a clinical trial optimization plan 
+"Design a clinical trial optimization plan for a biotech's Phase III oncology study: current enrollment challenges (12 sites, 60% of target), site selection criteria,
+patient recruitment strategy, digital tools to reduce dropouts, timeline acceleration, and projected $2M savings"
+
+# Create a customer experience strategy
+"Create a customer experience strategy for your hotel chain's CMO: journey map with pain points (slow check-in), guest feedback themes, CX maturity (level 2 of 5), 
+improvements, tech needed, and NPS lift from 45 to 65"
+
+# Design a market entry strategy
+"Design a market entry strategy for your SaaS company evaluating Latin America expansion: market size (5M potential customers), competitive landscape, customer segments, 
+launch approach, operations needed, financial projections, and risks"
+
+# Present HR consulting 
+Present HR consulting in three tiers: Essential (compliance), Growth (talent strategy), Partner (embedded leadership)
+
+# Create a portfolio optimization strategy
+"Create a portfolio optimization strategy for a regional REIT managing 45 commercial properties: asset performance review, hold vs. sell recommendations, 
+underperforming strip mall disposition plan, capital reallocation to multifamily, and 5-year value creation roadmap"
+
+# Build a due diligence presentation
+"Build a due diligence presentation for your investment committee evaluating a fintech acquisition: their business model, market position (#3 in payments), 
+financials, technology stack, management team, synergies, risks, and $50M valuation"
+
+# Create an organizational transformation presentation
+"Create an organizational transformation presentation for your retail bank's executives: vision for digital-first banking, current vs. future state, roadmap with quick wins 
+(mobile deposits in Q1), and how success gets measured"
+
+# Build a change plan
+"Build a change plan for a financial services firm moving 500 employees to hybrid work—covering communication, training, and reinforcement"
+
+# Build a market feasibility study
+"Build a market feasibility study for a 200-unit mixed-use development in downtown Austin: demographic analysis, comparable projects, demand projections, 
+absorption rates, construction costs, financing options, timeline, and expected 18% IRR"*
+
+# Design an operational efficiency review
+"Design an operational efficiency review for a logistics company's COO: warehouse process analysis, industry benchmarks (you're 20% slower), automation opportunities, 
+redesigned workflow, implementation plan, and projected $500K savings"
+
+# Build a technology implementation proposal
+"Build a technology implementation proposal for your healthcare network's leadership: current infrastructure gaps, proposed cloud migration plan, patient care improvements, 
+18-month rollout, $2M budget, and 3-year ROI projections"
+
+# Build a discovery presentation
+"Build a discovery presentation for a manufacturing client sorting whether supply chain delays are process issues or capacity problems"
+
 """
